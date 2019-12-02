@@ -1,3 +1,2 @@
-# 
-Informe de Sesión Laboratorio N° 07 - Sigfredo Aponte
+# Informe de Sesión Laboratorio N° 07-Sigfredo Aponte
 
