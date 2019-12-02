@@ -1,4 +1,3 @@
 # 
-INFORME NRO 07 BASE DE DATOS II
-Docker Microsoft SQL Server
-Angel Gonzale Cave
+Informe de Sesión Laboratorio N° 07 - Sigfredo Aponte
+
